@@ -24,14 +24,14 @@ Ispirato da [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-
 
 Principi di ingegneria del software, dal libro di Robert C. Martin's
 [*Clean Code*](https://www.amazon.it/Clean-Code-diventare-artigiani-programmazione-ebook/dp/B07BSVPHXD/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=),
-adattato per TypeScript. Questa non è una guida di stile, è una guida su come produrre software
+adattati per il linguaggio TypeScript. Questa non è una guida di stile, è una guida su come produrre software
 [leggibile, riusabile e *refactorizzabile*](https://github.com/ryanmcdermott/3rs-of-software-architecture) in TypeScript.
 
-Non tutti i principi qui esposti sono da seguire strettamente e ancora di meno sono quelli su cui tutti si possono trovare d'accordo. Sono linee guida e niente di più, ma sono state codificate a partire da molti anni di esperienza condivisa dagli autori di *Clean Code*.
+Non tutti i principi qui esposti sono da seguire strettamente e ancora meno sono quelli universalmente accettati. Sono linee guida e niente di più, ma sono state codificate a partire da molti anni di esperienza condivisa dagli autori di *Clean Code*.
 
 Il nostro mestiere (N.d.T. [*craft*](https://en.wikipedia.org/wiki/Craft) nell'originale inglese) dell'ingegneria del software è vecchio solo poco più di 50 anni e stiamo ancora imparando molto. Quando l'architettura del software sarà vecchia quanto l'architettura propriamente detta probabilmente avremo leggi più dure da rispettare. Per ora fai uso di queste linee guida come pietra di paragone utile a valutare la qualità del codice TypeScript che tu e il tuo team producete.
 
-Un'ultima cosa... conoscere queste cose non farà immediatamente di te un programmatore migliore. Anche dopo averle seguite per molti anni continuerai comunque a fare errori. Ogni porzione di codice nasce sempre come una prima stesura. E' come una tavoletta d'argilla che viene modellata per assumere la sua forma finale. Alla fine, rivedendola con i nostri colleghi, dovremo pulire con lo scalpello tutte le imperfezioni. Non biasimare te stesso se le tue prime bozze hanno bisogno di essere migliorate. Piuttosto biasima il codice!
+Un'ultima cosa... conoscere queste cose non farà immediatamente di te un programmatore migliore. Anche dopo averle seguite per molti anni continuerai comunque a fare errori. Ogni porzione di codice nasce sempre come una prima bozza. E' come una tavoletta d'argilla che viene modellata per assumere la sua forma finale. Alla fine, rivedendola con i nostri colleghi, dovremo ripulirla con lo scalpello da tutte le imperfezioni. Non biasimare te stesso se le tue prime stesure hanno bisogno di essere migliorate. Piuttosto biasima il codice!
 
 **[⬆ torna su](#sommario)**
 
